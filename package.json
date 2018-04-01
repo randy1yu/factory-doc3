@@ -1,0 +1,18 @@
+{
+  "name": "factory-doc3",
+  "version": "1.0.0",
+  "description": "learning angular",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/randy1yu/factoru-doc3.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
